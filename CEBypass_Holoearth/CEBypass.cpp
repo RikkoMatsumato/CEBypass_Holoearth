@@ -11,7 +11,7 @@ namespace CEBypass {
 		winreg::RegKey key{ HKEY_CURRENT_USER, L"Software\\Cheat Engine", KEY_ALL_ACCESS };
 		if (!key) {
 			cout << termcolor::color<120, 0, 0> << "FAILED!!!" << endl;
-			MessageBoxA(0, "Please Download Cheat Engine and Run This!!!", "CEBypass by RikkoMatsumato", 0);
+			MessageBoxA(0, "Please Download Cheat Engine, Run Cheat Engine, Skip CE Tutorial and Run This Bypass Again!!!", "CEBypass by RikkoMatsumato", 0);
 			exit(122);
 		}
 		else {
