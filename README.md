@@ -5,6 +5,7 @@
 
 It's My First CE Bypass for Game Holoearth... So Enjoy to use this!!!
 
+[Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 ## Donation
 
 Coming Soon!!!
