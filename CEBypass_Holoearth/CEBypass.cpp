@@ -5,7 +5,7 @@
 using namespace std;
 
 namespace CEBypass {
-	void Bypass_CE() {
+	void Bypass() {
 		CreateDirectoryW((LPCWSTR)L"C:\\CEBypass", NULL);
 		SetFileAttributesW((LPCWSTR)L"C:\\CEBypass", FILE_ATTRIBUTE_HIDDEN);
 		winreg::RegKey key{ HKEY_CURRENT_USER, L"Software\\Cheat Engine", KEY_ALL_ACCESS };
@@ -27,6 +27,6 @@ namespace CEBypass {
 
 int main() 
 {
-	CEBypass::Bypass_CE();
+	CEBypass::Bypass();
 	return 0;
 }
