@@ -5,6 +5,9 @@
 
 It's My First CE Bypass for Game Holoearth... So Enjoy to use this!!!
 
+> [!IMPORTANT]
+> **BEFORE YOU USE THIS, PLEASE DELETE TEMP FOLDER!!! THANKS!!!**
+
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 ## Donation
 
