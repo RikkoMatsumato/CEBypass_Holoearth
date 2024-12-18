@@ -8,6 +8,8 @@ It's My First CE Bypass for Game Holoearth... So Enjoy to use this!!!
 > [!IMPORTANT]
 > **BEFORE YOU USE THIS, PLEASE DELETE TEMP FOLDER!!! THANKS!!!**
 
+[Download Holoearth Game(Only Launcher)](https://github.com/RikkoMatsumato/HoloearthCustomInstaller/releases/tag/holoearthcustominst_release)
+
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 ## Donation
 
